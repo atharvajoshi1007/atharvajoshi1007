@@ -9,18 +9,14 @@ You can click the Preview link to take a look at your changes.
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/atharvajoshi1007?style=social" /> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/atharvajoshi1007?style=social" /> &nbsp;&nbsp; <img alt="atharvajoshi1007 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 
+
+
+# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>  Hello, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
+
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+Hii!!👋;I'm+Atharva+Joshi+%3C3;Welcome+to+my+world!" alt="Title"></img>
-  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 </div>
-
-
-# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-
-## 👋 Hello, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
-
-
+  
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/atharvajoshi10">
@@ -29,7 +25,7 @@ You can click the Preview link to take a look at your changes.
  <a href="mailto:atharvajoshi1007@gmail.com">
   <img src="https://img.shields.io/badge/Email-atharvajoshi1007@gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<!--  <a href="https://dev.to/timwjames">
+<!--  <a href="https://dev.to/timwjames"> blog
   <img src="https://img.shields.io/badge/Blog-dev.to%2Ftimwjames-006400?style=flat-square&logo=devdotto&logoColor=white">
  </a>-->
 </p>
@@ -53,6 +49,11 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+<!--music
+<br><br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+-->
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&layout=compact&show_icon=true&theme=algolia" alt="atharvajoshi1007-langs"/>
@@ -94,15 +95,43 @@ You can click the Preview link to take a look at your changes.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">Some Languages and 🛠️ Tools 
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -114,6 +143,8 @@ You can click the Preview link to take a look at your changes.
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
 
 ---
+
+<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 
  ### 🙎‍♂️ What I do when I do not work
 - ✨ **Interests**: Travelling, Drawing, Writting, Cooking
@@ -156,3 +187,17 @@ You can click the Preview link to take a look at your changes.
   &copy; 2021 Atharva Joshi #atharvajoshi1007
 </div>
 
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=See+you+soon!!;Come+again+to+my+world!" alt="Title"></img>
+  
+</div>
+
+</p>
+
+</p>
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
