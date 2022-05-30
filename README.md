@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/atharvajoshi1007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/atharvajoshi1007?style=social"> &nbsp;&nbsp; <img alt="atharvajoshi1007 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+Hii!!🙌;I'm+Atharva+Joshi+%3C3;Welcome+to+my+World!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+Hii!!   🙌;I'm+Atharva+Joshi+%3C3;Welcome+to+my+World!" alt="Title"></img>
 </div>
 
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
@@ -46,6 +46,18 @@ You can click the Preview link to take a look at your changes.
 Passionate about software development, Database Management and make things happen.
 
 <br>
+
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&layout=compact&show_icon=true&theme=algolia" alt="atharvajoshi1007-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=atharvajoshi1007&layout=compact&show_icon=true&theme=algolia" alt="atharvajoshi1007-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=atharvajoshi1007&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=atharvajoshi1007&theme=react-dark"/>
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+</div>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
@@ -77,9 +89,9 @@ Passionate about software development, Database Management and make things happe
 | 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
 
 -->
-<br>
 
-### 🛠️ Technologies
+<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and 🛠️ Tools 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
