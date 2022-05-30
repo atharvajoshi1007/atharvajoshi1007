@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 - 💼 [CV/Resume](https://drive.google.com/drive/folders/1e0JBdihYO2hWnM2iXwUz4Ozyyg2B5d_v "CV/Resume")
 - 📝 [Blog](https://twitter.com/atharva_joshi10 "Atharva Joshi")
 
-Passionate about software development, Database Management and make things happen.
+<center>Passionate about software development, Database Management and make things happen.</center>
 
 <br>
 
@@ -89,9 +89,12 @@ Passionate about software development, Database Management and make things happe
 | 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
 
 -->
+-->
 
 <br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and 🛠️ Tools 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">Some Languages and 🛠️ Tools 
+
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
@@ -115,3 +118,38 @@ Passionate about software development, Database Management and make things happe
 - ✨ **Interests**: Travelling, Drawing, Writting, Cooking
 - 🎥 **Movies**: Marvel Movies
 - 📺 **TV Shows**: Cartoons
+-->
+-->
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="mailto:atharvajoshi1007@gmail.com" >
+    <img align="center" alt="atharvajoshi1007 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/atharvajoshi10" target="_blank">
+    <img align="center" alt="atharvajoshi1007 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/atharvajoshi1007/" target="_blank">
+      <img align="center" alt="atharvajoshi1007 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/atharvajoshi1007/" target="_blank">
+    <img align="center" alt="atharvajoshi1007 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/atharvajoshi1007" target="_blank">
+    <img align="center" alt="atharvajoshi1007 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.youtube.com/channel/atharvajoshi1007" target="_blank">
+    <img align="center" alt="atharvajoshi1007 | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2021 Tien Huynh tienhuynh-tn
+</div>
+
