@@ -9,10 +9,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+Hii!!🙌;I'm+Atharva+Joshi+%3C3;Welcome+to+my+World!" alt="Title"></img>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+</div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" align="center"></img> About Me
-
+<div align="center">
 # 👋 Hello, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
+</div>
+
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/atharvajoshi10">
