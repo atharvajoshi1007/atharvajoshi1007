@@ -3,7 +3,7 @@ atharvajoshi1007/atharvajoshi1007 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hullo, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
+# 👋 Hello, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/atharvajoshi10">
