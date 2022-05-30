@@ -76,7 +76,6 @@ You can click the Preview link to take a look at your changes.
 ### 🖥️ Major Projects
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
--->
 <!--
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
@@ -91,15 +90,13 @@ You can click the Preview link to take a look at your changes.
 | 2019 | [Minimax AI for Sushi Go](https://github.com/Tim-W-James/Sushi-Go-AI) | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
 | 2018 | [2D Game Level Procedural Generation](https://github.com/Tim-W-James/Time-Travel-Roguelite-Game "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
 | 2018 | [Raspberry Pi Weather System](https://github.com/Tim-W-James/Raspberry-Pi-Weather-Station) | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi&logoColor=red) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
-| 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
--->
+| 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) 
+--> 
 
-<br>
-
+# 🔥Streak Eater🐍
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
+# <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">Some Languages and 🛠️ Tools 
 
