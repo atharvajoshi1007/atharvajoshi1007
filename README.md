@@ -6,30 +6,38 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hullo, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/timothy-william-james/">
+ <a href="https://www.linkedin.com/in/atharvajoshi10">
   <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:tim.jameswork9800@gmail.com">
+ <a href="mailto:tim.atharvajoshi1007@gmail.com">
   <img src="https://img.shields.io/badge/Email-tim.jameswork9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
- </a>
- <a href="https://dev.to/timwjames">
+</a>
+<!--  <a href="https://dev.to/timwjames">
   <img src="https://img.shields.io/badge/Blog-dev.to%2Ftimwjames-006400?style=flat-square&logo=devdotto&logoColor=white">
- </a>
+ </a>-->
 </p>
 
-- 👨‍💼 Software Dev at [Agile Digital](https://github.com/agiledigital "Agile Digital Website")
-- 📄 **Bachelor of Information Technology** at the **Australian National University**
-- 💻 Interested in front-end development, games programming, project management
-- 📫 How to reach me: [Email](mailto:tim.jameswork9800@gmail.com "tim.jameswork9800@gmail.com") || [LinkedIn](https://www.linkedin.com/in/timothy-william-james/ "timothy-william-james") || [Facebook](https://www.facebook.com/TimJames9800 "TimJames9800") || [Twitter](https://twitter.com/TimWJames "Tim W James")
-- 🗺️ Located near Canberra, Australia
-- 💼 [CV/Resume](https://github.com/Tim-W-James/Tim-W-James/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
-- 📝 [Blog](https://dev.to/timwjames)
+- 👨‍💼 Web Developer intern at [Swapra Technology](https://github.com/atharvajoshi1007/SwapraTech/tree/master/Swapra) [1 June 2022 - 31 July 2022]
+- 👨‍💼 Full Stack Developer intern at [Config Solutions, Ahmednagar](https://www.indiamart.com/config-solutions/) [15 MAY 2019 - 25 June 2019]
+- 📄 **Bachelor of Information Technology** at the **MIT Academy of Engineering, Pune**
+- 💻 Interested in 
+   1) SQL/NoSQL Databases
+   2) Java Application Development, 
+   3) Data Engineering and Science, 
+   4) Data Analytics, 
+   5) DSA using C++, 
+   6) Cloud Databases and Operations
+   7) project management
+- 📫 How to reach me: [Email](mailto:atharvajoshi1007@gmail.com "atharvajoshi1007@gmail.com") || [LinkedIn](www.linkedin.com/in/atharvajoshi10 "atharvajoshi1007") || [Facebook](https://www.facebook.com/atharvajoshi1007/ "atharvajoshi1007") || [Twitter](https://twitter.com/atharva_joshi10 "Atharva Joshi")
+- 🗺️ Located at Ahmednagar/Pune,Maharashtra
+- 💼 [CV/Resume](https://drive.google.com/drive/folders/1e0JBdihYO2hWnM2iXwUz4Ozyyg2B5d_v "CV/Resume")
+- 📝 [Blog](https://twitter.com/atharva_joshi10 "Atharva Joshi")
 
-Passionate about software development, writing code, and making things happen.
+Passionate about software development, Database Management and make things happen.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
-![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=Tim-W-James&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
+![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=atharvajoshi1007&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 <br>
 
 ---
