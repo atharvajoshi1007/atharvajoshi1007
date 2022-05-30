@@ -91,6 +91,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">Some Languages and 🛠️ Tools 
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
