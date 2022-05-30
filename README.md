@@ -34,10 +34,14 @@ You can click the Preview link to take a look at your changes.
 - 📝 [Blog](https://twitter.com/atharva_joshi10 "Atharva Joshi")
 
 Passionate about software development, Database Management and make things happen.
+
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
 ![Atharva's github stats](https://github-readme-stats.vercel.app/api/?username=atharvajoshi1007&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+-->
+
 <br>
 
 ---
@@ -62,9 +66,9 @@ Passionate about software development, Database Management and make things happe
 | 2018 | [Raspberry Pi Weather System](https://github.com/Tim-W-James/Raspberry-Pi-Weather-Station) | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi&logoColor=red) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
 | 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
 
-<br>
----
 -->
+<br>
+
 ### 🛠️ Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
