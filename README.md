@@ -38,7 +38,6 @@ You can click the Preview link to take a look at your changes.
    5) DSA using C++, 
    6) Cloud Databases and Operations
    7) project management
-- 📫 How to reach me: [Email](mailto:atharvajoshi1007@gmail.com "atharvajoshi1007@gmail.com") || [LinkedIn](www.linkedin.com/in/atharvajoshi10 "atharvajoshi1007") || [Facebook](https://www.facebook.com/atharvajoshi1007/ "atharvajoshi1007") || [Twitter](https://twitter.com/atharva_joshi10 "Atharva Joshi")
 - 🗺️ Located at Ahmednagar/Pune,Maharashtra
 - 💼 [CV/Resume](https://drive.google.com/drive/folders/1e0JBdihYO2hWnM2iXwUz4Ozyyg2B5d_v "CV/Resume")
 - 📝 [Blog](https://twitter.com/atharva_joshi10 "Atharva Joshi")
@@ -57,12 +56,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://activity-graph.herokuapp.com/graph?username=atharvajoshi1007&theme=react-dark"/>
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
-![Atharva's github stats](https://github-readme-stats.vercel.app/api/?username=atharvajoshi1007&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
--->
 
 <br>
 
@@ -112,12 +105,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<!-- ### 🧔 What I do when I do not work
+ ### 🧔 What I do when I do not work
 - ✨ **Interests**: Travelling, Drawing, Writting, Cooking
 - 🎥 **Movies**: Marvel Movies
 - 📺 **TV Shows**: Cartoons
--->
--->
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
