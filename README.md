@@ -45,6 +45,10 @@ You can click the Preview link to take a look at your changes.
 - 💼 [CV/Resume](https://drive.google.com/drive/folders/1e0JBdihYO2hWnM2iXwUz4Ozyyg2B5d_v "CV/Resume")
 - 📝 [Blog](https://twitter.com/atharva_joshi10 "Atharva Joshi")
 
+
+<img src="https://imgur.com/rilHVxA.png"/> 
+
+
 <center>Passionate about software development, Database Management and make things happen.</center>
 
 <br>
@@ -92,8 +96,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 
@@ -143,9 +147,10 @@ You can click the Preview link to take a look at your changes.
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
 
 ---
-
+<div align="center">
 <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
-
+</div>
+  
  ### 🙎‍♂️ What I do when I do not work
 - ✨ **Interests**: Travelling, Drawing, Writting, Cooking
 - 🎥 **Movies**: Marvel Movies
@@ -190,7 +195,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=See+you+soon!!;Come+again+to+my+world!" alt="Title"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=See+you+soon!!;Come+again+to+see+my+world!" alt="Title"></img>
   
 </div>
 
@@ -198,6 +203,6 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![Atharva Joshi](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <br>
 </p>
