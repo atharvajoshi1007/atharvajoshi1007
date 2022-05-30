@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.linkedin.com/in/atharvajoshi10">
   <img src="https://img.shields.io/badge/linkedin-atharva%20joshi10-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:tim.atharvajoshi1007@gmail.com">
+ <a href="mailto:atharvajoshi1007@gmail.com">
   <img src="https://img.shields.io/badge/Email-atharvajoshi1007@gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <!--  <a href="https://dev.to/timwjames">
