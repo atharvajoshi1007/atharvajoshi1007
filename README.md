@@ -37,7 +37,7 @@ Passionate about software development, Database Management and make things happe
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
-![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=atharvajoshi1007&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+![Atharva's github stats](https://github-readme-stats.vercel.app/api/?username=atharvajoshi1007&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 <br>
 
 ---
