@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/atharvajoshi1007?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/atharvajoshi1007?style=social"> &nbsp;&nbsp; <img alt="atharvajoshi1007 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!;I'm+Atharva+Joshi+%3C3;Welcome+to+my+World!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+Hii!!🙌;I'm+Atharva+Joshi+%3C3;Welcome+to+my+World!" alt="Title"></img>
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" align="center"></img> About Me
 
 # 👋 Hello, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
