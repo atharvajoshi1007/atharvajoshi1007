@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>  Hello, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
+# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50" width="50"></img>  Hello, I’m [Atharva Joshi](https://github.com/atharvajoshi1007)
 
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
@@ -98,7 +98,7 @@ You can click the Preview link to take a look at your changes.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 # <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">Some Languages and 🛠️ Tools 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="40" width="40">        Some Languages and 🛠️ Tools 
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
@@ -150,11 +150,11 @@ You can click the Preview link to take a look at your changes.
 </div>
   
  ### 🙎‍♂️ What I do when I do not work
-- ✨ **Interests**: Travelling, Drawing, Writting, Cooking
+- ✨ **Interests**: Travelling, Drawing, Cooking, Gym
 - 🎥 **Movies**: Marvel Movies
 - 📺 **TV Shows**: Cartoons
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60" width="120"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:atharvajoshi1007@gmail.com" >
     <img align="center" alt="atharvajoshi1007 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
