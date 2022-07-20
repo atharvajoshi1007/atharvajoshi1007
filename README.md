@@ -156,6 +156,19 @@ You can click the Preview link to take a look at your changes.
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60" width="120"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
+
+  <a href="https://www.codechef.com/users/ajmatics1007" >
+    <img align="center" alt="ajmatics1007 | Codechef" width="50px" src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" />
+  </a> &nbsp;&nbsp;
+
+<a href="https://leetcode.com/ajmatics/" >
+    <img align="center" alt="ajmatics | LeetCode" width="20px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.hackerrank.com/atharvajoshi1001" >
+    <img align="center" alt="atharvajoshi001 | Hackerrank" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png?20180109055843" />
+  </a> &nbsp;&nbsp;
+
   <a href="mailto:atharvajoshi1007@gmail.com" >
     <img align="center" alt="atharvajoshi1007 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
