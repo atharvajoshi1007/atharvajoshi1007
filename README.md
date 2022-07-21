@@ -103,6 +103,7 @@ You can click the Preview link to take a look at your changes.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="40" width="40">        Some Languages and 🛠️ Tools 
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+![Flutter](https://img.shields.io/badge/flutter-%23563D7C.svg?style=flat&logo=flutter&logoColor=skyblue) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
