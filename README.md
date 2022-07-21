@@ -30,17 +30,19 @@ You can click the Preview link to take a look at your changes.
  </a>-->
 </p>
 
-- 👨‍💼 Web Developer intern at [Swapra Technology](https://github.com/atharvajoshi1007/SwapraTech/tree/master/Swapra) [1 June 2022 - 31 July 2022]
+- 👨‍💼 Flutter Developer intern at [Cwipedia](https://www.cwipedia.in/) | [Work](https://github.com/CWIPEDIA-DEVELOPERS/Diploma-connect) [6 June 2022 - 6 Sept 2022]
+- 👨‍💼 Web Developer intern at [Swapra Technology](https://swapratechnologies.com/) | [Work](https://github.com/atharvajoshi1007/SwapraTech/tree/master/Swapra) [1 June 2022 - 31 July 2022]
 - 👨‍💼 Full Stack Developer intern at [Config Solutions, Ahmednagar](https://www.indiamart.com/config-solutions/) [15 MAY 2019 - 25 June 2019]
 - 📄 **Bachelor of Information Technology** at the **MIT Academy of Engineering, Pune**
 - 💻 Interested in 
    1) SQL/NoSQL Databases
-   2) Java Application Development, 
-   3) Data Engineering and Science, 
-   4) Data Analytics, 
-   5) DSA using C++, 
-   6) Cloud Databases and Operations
-   7) project management
+   2) Flutter Mobile Application Developement,
+   3) Java Application Development, 
+   4) Data Engineering and Science, 
+   5) Data Analytics, 
+   6) DSA using C++, 
+   7) Cloud Databases and Operations
+   8) project management
 - 🗺️ Located at Ahmednagar/Pune,Maharashtra
 - 💼 [CV/Resume](https://drive.google.com/drive/folders/1e0JBdihYO2hWnM2iXwUz4Ozyyg2B5d_v "CV/Resume")
 - 📝 [Blog](https://twitter.com/atharva_joshi10 "Atharva Joshi")
