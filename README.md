@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
    8) project management
 - 🗺️ Located at Ahmednagar/Pune,Maharashtra
 - 💼 [CV/Resume](https://drive.google.com/drive/folders/1e0JBdihYO2hWnM2iXwUz4Ozyyg2B5d_v "CV/Resume")
-- 📝 [Blog](https://twitter.com/atharva_joshi10 "Atharva Joshi")
+- 📝 [Blog](https://twitter.com/atharvajoshi107 "Atharva Joshi")
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
