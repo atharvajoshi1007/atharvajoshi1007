@@ -160,7 +160,7 @@ You can click the Preview link to take a look at your changes.
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60" width="120"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
 
-  <a href="https://www.codechef.com/users/ajmatics1007" >
+  <a href="https://www.codechef.com/users/ajmatics" >
     <img align="center" alt="ajmatics1007 | Codechef" width="50px" src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" />
   </a> &nbsp;&nbsp;
 
