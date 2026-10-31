@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-stats
+  group: profile-generated-assets
   cancel-in-progress: false
 
 jobs:
@@ -49,4 +49,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: refresh GitHub profile cards"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
