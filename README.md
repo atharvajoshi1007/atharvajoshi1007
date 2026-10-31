@@ -15,7 +15,7 @@
 <a href="mailto:atharvajoshi1007@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=27&pause=1000&color=48DDF0&center=true&vCenter=true&width=900&height=55&lines=Engineering+Modern+%26+Smart+Systems;Data+%E2%80%A2+AI+%E2%80%A2+ML+%E2%80%A2+Cloud;Data+Engineering+%E2%80%A2+GenAI+%E2%80%A2+Architecture;Build+%E2%80%A2+Automate+%E2%80%A2+Innovate" alt="Animated profile tagline" />
-
+</br>
 <img src="https://img.shields.io/github/followers/atharvajoshi1007?label=Followers&style=flat-square&color=7C3AED" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/atharvajoshi1007?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=F59E0B" alt="GitHub stars" />
 <img src="https://komarev.com/ghpvc/?username=atharvajoshi1007&label=Profile%20views&color=0EA5E9&style=flat-square" alt="Profile views" />
@@ -24,6 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/SP-XD/SP-XD"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="47%" alt="Developer working at a computer" /></a>
+  </br>
   <img src="images/engineering-flow.svg" width="50%" alt="Engineering flow: ingest, transform, validate, activate and intelligence" />
 </p>
 
@@ -42,7 +43,7 @@ A Data & AI engineering professional building scalable data platforms, intellige
 
 ## 🧬 The journey so far
 
-<table>
+<table align="center">
 <tr>
 <td width="25%" align="center"><h3>01</h3><b>Software</b><br/><sub>Application • Backend • APIs</sub></td>
 <td width="25%" align="center"><h3>02</h3><b>Intelligence</b><br/><sub>Data Science • ML • GenAI</sub></td>
@@ -111,7 +112,7 @@ Azure • AWS • GCP • distributed and event-driven systems • queue-based p
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 <h3>🏗️ Large-scale Enterprise Data Platform</h3>
@@ -374,7 +375,7 @@ For public code and repositories, explore the <a href="https://github.com/atharv
 
 ## 🏅 Highlights & credentials
 
-<table>
+<table align = "center">
 <tr><td align="center" width="33%"><h1>70%</h1><b>Faster source onboarding</b><br/><sub>Fivetran migration</sub></td><td align="center" width="33%"><h1>60%</h1><b>Less debugging time</b><br/><sub>Airflow / AI-assisted RCA</sub></td><td align="center" width="33%"><h1>9.45</h1><b>B.Tech CGPA / 10</b><br/><sub>MIT Academy of Engineering</sub></td></tr>
 </table>
 
@@ -402,7 +403,7 @@ Data structures & algorithms (C++) · SQL / NoSQL databases · Flutter and mobil
 
 I also share practical learning and technical perspectives on AI, cloud platforms, machine learning and analytics. A few pieces from my <a href="https://medium.com/@atharvajoshi1007">Medium profile</a>:
 
-<table>
+<table align="center">
 <tr><td width="50%" valign="top">🧠 <b><a href="https://medium.com/@atharvajoshi1007/aws-sagemaker-vs-azure-ml-studio-a-practical-comparison-for-architecting-deploying-business-fc01f4114313">AWS SageMaker vs Azure ML Studio</a></b><br/><sub>Architecture, deployment and business use-cases · Oct 2025</sub></td><td width="50%" valign="top">⚡ <b><a href="https://medium.com/@atharvajoshi1007/revolutionizing-the-sustainable-energy-sector-with-generative-ai-5009aec678b4">Generative AI for the Sustainable Energy Sector</a></b><br/><sub>Applied GenAI and energy-management ideas · Jan 2025</sub></td></tr>
 <tr><td width="50%" valign="top">☁️ <b><a href="https://medium.com/@atharvajoshi1007/building-intelligent-solutions-with-generative-ai-on-azure-a-developers-perspective-ae302c7be069">Building Intelligent Solutions with GenAI on Azure</a></b><br/><sub>Azure AI, RAG and scalable application design · Jan 2025</sub></td><td width="50%" valign="top">📊 <b><a href="https://medium.com/@atharvajoshi1007/market-basket-analysis-for-everyone-2173c50993e7">Market Basket Analysis for Everyone</a></b><br/><sub>Apriori, FP-Growth and ECLAT · Dec 2024</sub></td></tr>
 </table>
@@ -418,12 +419,31 @@ I also share practical learning and technical perspectives on AI, cloud platform
 
 <div align="center">
 
-<a href="https://github.com/atharvajoshi1007"><img height="175" src="https://github-readme-stats.vercel.app/api?username=atharvajoshi1007&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" alt="GitHub statistics for Atharva Joshi" /></a>
-<a href="https://github.com/atharvajoshi1007"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshi1007&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="Most used GitHub languages" /></a>
+<a href="https://github.com/atharvajoshi1007">
+  <img height="175" src="./profile/stats.svg"
+       alt="GitHub statistics for Atharva Joshi" />
+</a>
+<a href="https://github.com/atharvajoshi1007">
+  <img height="175" src="./profile/top-langs.svg"
+       alt="Most used GitHub languages" />
+</a>
 
-<img width="82%" src="https://streak-stats.demolab.com?user=atharvajoshi1007&theme=algolia&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/atharvajoshi1007">
+  <img width="82%"
+       src="https://streak-stats.demolab.com?user=atharvajoshi1007&theme=algolia&hide_border=true"
+       alt="GitHub contribution streak" />
+</a>
 
-<a href="https://github.com/atharvajoshi1007"><img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvajoshi1007&theme=react-dark&hide_border=true&bg_color=0D1117&line=00D9FF&point=FF5CC8" alt="GitHub activity graph" /></a>
+<a href="https://github.com/atharvajoshi1007">
+  <img width="96%" src="./profile/activity-365d.svg"
+       alt="GitHub activity over the last year" />
+</a>
+
+<p>
+  <a href="./profile/activity-30d.svg">30-day activity</a> ·
+  <a href="./profile/activity-90d.svg">90-day activity</a> ·
+  <a href="./profile/activity-365d.svg">365-day activity</a>
+</p>
 
 </div>
 
@@ -432,6 +452,7 @@ I also share practical learning and technical perspectives on AI, cloud platform
 ### 🐍 Contribution snake
 
 ![Contribution snake — light](https://raw.githubusercontent.com/atharvajoshi1007/atharvajoshi1007/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ![Contribution snake — dark](https://raw.githubusercontent.com/atharvajoshi1007/atharvajoshi1007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
