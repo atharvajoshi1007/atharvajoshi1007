@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="t d">
+<title id="t">Engineering from source to intelligence</title><desc id="d">A diagram showing data moving through ingestion, transformation, quality and governance, analytics and AI.</desc>
+<defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#00D9FF"/><stop offset=".5" stop-color="#9A6CFF"/><stop offset="1" stop-color="#FF5BC8"/></linearGradient></defs>
+<rect width="1100" height="190" rx="24" fill="#0B1025" stroke="#273A68"/>
+<path d="M130 80H970" stroke="url(#line)" stroke-width="4" opacity=".85"/>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <g transform="translate(125 80)"><circle r="37" fill="#102944" stroke="#00D9FF" stroke-width="2"/><path d="M-15 -10H15M-15 0H15M-15 10H7" stroke="#A8F4FF" stroke-width="4" stroke-linecap="round"/><text y="66" fill="#DCE8FF" font-size="17" font-weight="700">INGEST</text><text y="87" fill="#8FA5D4" font-size="12">Connect &amp; capture</text></g>
+  <g transform="translate(338 80)"><circle r="37" fill="#241C48" stroke="#9A6CFF" stroke-width="2"/><path d="M-18 -12H18L7 0H-7ZM-7 2H7L18 14H-18Z" fill="none" stroke="#D8C7FF" stroke-width="3"/><text y="66" fill="#DCE8FF" font-size="17" font-weight="700">TRANSFORM</text><text y="87" fill="#8FA5D4" font-size="12">Model &amp; orchestrate</text></g>
+  <g transform="translate(550 80)"><circle r="37" fill="#123A3C" stroke="#55E2B3" stroke-width="2"/><path d="M-16 0L-5 12L18 -14" fill="none" stroke="#B9FFE7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text y="66" fill="#DCE8FF" font-size="17" font-weight="700">VALIDATE</text><text y="87" fill="#8FA5D4" font-size="12">Quality &amp; governance</text></g>
+  <g transform="translate(762 80)"><circle r="37" fill="#382640" stroke="#FF69D6" stroke-width="2"/><path d="M-19 12V-12H19V12ZM-11 4H-4M2 4H11M-11 -4H11" fill="none" stroke="#FFD6F2" stroke-width="3"/><text y="66" fill="#DCE8FF" font-size="17" font-weight="700">ACTIVATE</text><text y="87" fill="#8FA5D4" font-size="12">Analytics &amp; products</text></g>
+  <g transform="translate(975 80)"><circle r="37" fill="#3A2E1C" stroke="#FFCA67" stroke-width="2"/><path d="M0 -19V19M-15 -9H15M-15 9H15M-13 -14L13 14M13 -14L-13 14" stroke="#FFE5A8" stroke-width="3"/><text y="66" fill="#DCE8FF" font-size="17" font-weight="700">INTELLIGENCE</text><text y="87" fill="#8FA5D4" font-size="12">AI &amp; decisions</text></g>
+</g>
+</svg>

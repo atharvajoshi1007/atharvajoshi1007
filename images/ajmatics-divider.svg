@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="AJMATICS section divider">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00D9FF"/><stop offset=".5" stop-color="#9B6CFF"/><stop offset="1" stop-color="#FF5CC8"/></linearGradient></defs>
+<path d="M0 36H438M762 36H1200" stroke="url(#g)" stroke-width="2" opacity=".85"/>
+<path d="M0 44H438M762 44H1200" stroke="url(#g)" stroke-width=".7" opacity=".3"/>
+<rect x="450" y="13" width="300" height="46" rx="23" fill="#0C1330" stroke="url(#g)" stroke-width="2"/>
+<text x="600" y="42" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle" fill="#D9E8FF" font-size="19" font-weight="700" letter-spacing="5">A J M A T I C S</text>
+<circle cx="432" cy="36" r="4" fill="#00D9FF"/><circle cx="768" cy="36" r="4" fill="#FF5CC8"/>
+</svg>
